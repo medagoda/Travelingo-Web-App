@@ -6,6 +6,6 @@ export function App() {
       <div className="w-full max-w-7xl mx-auto bg-white rounded-3xl overflow-hidden shadow-lg flex">
         <Sidebar />
         <MainContent />
-      </div>
+      </div> {/* App created */}
     </div>;
 }
